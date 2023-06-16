@@ -1,17 +1,12 @@
-→ Criação de pasta
-• Mkdir
+→ Criação de pasta -- Mkdir
 
-→ Acessar a pasta
-• CD nome-da-pasta
+→ Acessar a pasta -- CD nome-da-pasta
 
-→ Para iniciar um repositorio
-• git init
+→ Para iniciar um repositorio -- git init
 
-→ para retornar um diretorio
-• cd ..
+→ para retornar um diretorio -- cd ..
 
-→ para renomear uma pasta do diretorio
-• mv nome-da-pasta-deverá-sair-da-pasta-primeiro
+→ para renomear uma pasta do diretorio -- mv nome-da-pasta-deverá-sair-da-pasta-primeiro
 
 → para remover um diretorio
 certificar que esta sincronizado com o repositorio remoto e remova a pasta localmente com o codigo 
